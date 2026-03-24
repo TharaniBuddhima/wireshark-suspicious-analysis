@@ -1,0 +1,10 @@
+Suspicious Traffic Analysis using Wireshark
+
+1. Multiple SYN packets detected indicating possible port scanning activity.
+2. Continuous ICMP packets observed from ping command.
+3. DNS queries showed repeated domain lookups.
+4. TCP stream analysis revealed communication patterns.
+5. Endpoint analysis helps identify suspicious IP behavior
+
+Conclusion:
+The captured traffic includes patterns similar to network scanning and abnormal activity.
