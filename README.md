@@ -17,19 +17,19 @@ Analyze network traffic to detect suspicious activities.
 ## Screenshots
 
 ### SYN Packets
-![SYN](images/syn)
+![SYN](images/syn.png)
 
 ### ICMP Flood
-![ICMP](images/icmp flood)
+![ICMP](images/icmp.png)
 
 ### DNS Queries
-![DNS](images/dns queries)
+![DNS](images/dns.png)
 
 ### TCP Stream
-![TCP](images/tcp stream view)
+![TCP](images/tcp.png)
 
 ### Endpoints Statistics (IP Analysis)
-![IP](images/ip analysis)
+![IP](images/ip.png)
 
 ## Conclusion
 This project demonstrates the ability to identify abnormal network behavior.
